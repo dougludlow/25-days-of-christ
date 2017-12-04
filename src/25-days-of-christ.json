@@ -1,0 +1,418 @@
+[{
+    "day": 1,
+    "title": "Birth of Christ",
+    "scriptures": [{
+        "reference": "Luke 2:1-7",
+        "url": "https://www.lds.org/scriptures/nt/luke/2.1-7"
+    }],
+    "pictures": [{
+        "title": "Mary and Joseph",
+        "url": "https://media.ldscdn.org/images/media-library/bible-images-the-life-of-jesus-christ/nativity/nativity-mary-joseph-958700-print.jpg"
+    }],
+    "videos": [{
+        "title": "Mary and Joseph Travel to Bethlehem",
+        "url": "https://www.youtube.com/watch?v=GLEjPrdRLuI"
+    }]
+}, {
+    "day": 2,
+    "title": "Announcement to the Shepherds",
+    "scriptures": [{
+        "reference": "Luke 2:8-18",
+        "url": "https://www.lds.org/scriptures/nt/luke/2.8-18"
+    }],
+    "pictures": [{
+        "title": "The Announcement of Christ’s Birth to the Shepherds",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/shepherds-see-new-star-39535-print.jpg"
+    }],
+    "videos": [{
+        "title": "Shepherds Learn of the Birth of Christ",
+        "url": "https://www.youtube.com/watch?v=e5Q5STibJUQ"
+    }, {
+        "title": "A Light Unto All",
+        "url": "https://www.youtube.com/watch?v=PxKas2Mcjg4"
+    }]
+}, {
+    "day": 3,
+    "title": "The Three Wise Men",
+    "scriptures": [{
+        "reference": "Matthew 2:1-12",
+        "url": "https://www.lds.org/scriptures/nt/matt/2.1-12"
+    }],
+    "pictures": [{
+        "title": "The Magi",
+        "url": "https://media.ldscdn.org/images/media-library/christmas/wise-men-star-62875-tablet.jpg"
+    }],
+    "videos": [{
+        "title": "The Wise Men Seek Jesus",
+        "url": "https://www.youtube.com/watch?v=xhD8lG9VDVc"
+    }, {
+        "title": "Wise Men Still Seek Him",
+        "url": "https://www.youtube.com/watch?v=9OcQXpZwRKY"
+    }]
+}, {
+    "day": 4,
+    "title": "Boy Jesus in the Temple",
+    "scriptures": [{
+        "reference": "Luke 2:40-52",
+        "url": "https://www.lds.org/scriptures/nt/luke/2.40-52"
+    }],
+    "pictures": [{
+        "title": "Jesus Teaching the Elders in the Temple",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/boy-jesus-in-the-temple-39538-print.jpg"
+    }],
+    "videos": [{
+        "title": "Young Jesus Teaches in the Temple",
+        "url": "https://www.youtube.com/watch?v=jJJo0Fksivk"
+    }]
+}, {
+    "day": 5,
+    "title": "Baptism",
+    "scriptures": [{
+        "reference": "Matthew 3:13-17",
+        "url": "https://www.lds.org/scriptures/nt/matt/3.13-17"
+    }],
+    "pictures": [{
+        "title": "John the Baptist Baptizing Jesus",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/john-baptizes-christ-39544-print.jpg"
+    }],
+    "videos": [{
+        "title": "The Baptism of Jesus",
+        "url": "https://www.youtube.com/watch?v=9_dr9njVzKM"
+    }]
+}, {
+    "day": 6,
+    "title": "Fishers of Men",
+    "scriptures": [{
+        "reference": "Luke 5:1-11",
+        "url": "https://www.lds.org/scriptures/nt/luke/5.1-11"
+    }, {
+        "reference": "Luke 6:12-16",
+        "url": "https://www.lds.org/scriptures/nt/luke/6.12-16"
+    }],
+    "pictures": [{
+        "title": "Calling of the Fishermen",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/calling-the-fishermen-39547-print.jpg"
+    }, {
+        "title": "Christ Ordaining the Apostles",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/christ-ordaining-the-apostles-39549-print.jpg"
+    }],
+    "videos": [{
+        "title": "Follow Me, and I Will Make You Fishers of Men",
+        "url": "https://www.youtube.com/watch?v=T7xNnBHM5Wg"
+    }, {
+        "title": "Jesus Calls Twelve Apostles to Preach and Bless Others",
+        "url": "https://www.youtube.com/watch?v=e-3TEnEzXHk"
+    }]
+}, {
+    "day": 7,
+    "title": "Sermon on the Mount",
+    "scriptures": [{
+        "reference": "Matthew 5:1-16",
+        "url": "https://www.lds.org/scriptures/nt/matt/5.1-16"
+    }],
+    "pictures": [{
+        "title": "Sermon on the Mount",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/christ-teaching-the-people-39554-print.jpg"
+    }],
+    "videos": [{
+        "title": "Sermon on the Mount: The Beatitudes",
+        "url": "https://www.youtube.com/watch?v=BTO7-Jarl-E"
+    }]
+}, {
+    "day": 8,
+    "title": "Stilling the Storm",
+    "scriptures": [{
+        "reference": "Matthew 8:23-27",
+        "url": "https://www.lds.org/scriptures/nt/matt/8.23-27"
+    }],
+    "pictures": [{
+        "title": "Stilling the Storm",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-calms-the-storm-39557-print.jpg"
+    }],
+    "videos": [{
+        "title": "Calming the Tempest",
+        "url": "https://www.youtube.com/watch?v=hj0cVBYKaEg"
+    }]
+}, {
+    "day": 9,
+    "title": "Feeds the 5000",
+    "scriptures": [{
+        "reference": "Matthew 14:14-21",
+        "url": "https://www.lds.org/scriptures/nt/matt/14.14-21"
+    }],
+    "pictures": [{
+        "title": "Loaves and Fishes Miracle",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/miracle-loaves-fishes-james-tissot-82990-print.jpg"
+    }],
+    "videos": [{
+        "title": "The Feeding of the 5,000",
+        "url": "https://www.youtube.com/watch?v=UtrjViTgPHs"
+    }]
+}, {
+    "day": 10,
+    "title": "Walking on the Water",
+    "scriptures": [{
+        "reference": "Matthew 14:22-33",
+        "url": "https://www.lds.org/scriptures/nt/matt/14.22-23"
+    }],
+    "pictures": [{
+        "title": "Christ Walking on the Water",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-walking-on-water-129516-print.jpg"
+    }],
+    "videos": [{
+        "title": "Jesus Walking On Water - Wherefore Didst Thou Doubt?",
+        "url": "https://www.youtube.com/watch?v=2noonMEnSFg"
+    }]
+}, {
+    "day": 11,
+    "title": "Parable of the Good Samaritan",
+    "scriptures": [{
+        "reference": "Luke 10:25-37",
+        "url": ""
+    }],
+    "pictures": [{
+        "title": "The Good Samaritan",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-good-samaritan-82691-print.jpg"
+    }],
+    "videos": [{
+        "title": "Parables of Jesus: Parable of the Good Samaritan",
+        "url": "https://www.youtube.com/watch?v=53Pqw20xK10"
+    }]
+}, {
+    "day": 12,
+    "title": "Ten Lepers",
+    "scriptures": [{
+        "reference": "Luke 17:11-19",
+        "url": "https://www.lds.org/scriptures/nt/luke/17.11-19"
+    }],
+    "pictures": [{
+        "title": "Ten Lepers (The Healing of the Ten Lepers)",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/ten-lepers-christ-healed-tissot-39577-print.jpg"
+    }],
+    "videos": [{
+        "title": "The Ten Lepers",
+        "url": "https://www.youtube.com/watch?v=5_cJ2M9_TRg"
+    }]
+}, {
+    "day": 13,
+    "title": "Parable of the Lost Sheep",
+    "scriptures": [{
+        "reference": "Luke 15:3-10",
+        "url": "https://www.lds.org/scriptures/nt/luke/15.3-10"
+    }],
+    "pictures": [{
+        "title": "The Lost Lamb",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/lost-lamb-art-lds-425852-tablet.jpg"
+    }],
+    "videos": [{
+        "title": "Parables of Jesus: The Parable of the Lost Sheep",
+        "url": "https://www.youtube.com/watch?v=9YZVp3GH-7o"
+    }, {
+        "title": "The Good Shepherd and Other Sheep I Have",
+        "url": "https://www.youtube.com/watch?v=iKwabH-k2fg"
+    }]
+}, {
+    "day": 14,
+    "title": "Take Up Thy Bed",
+    "scriptures": [{
+        "reference": "Mark 2:1-12",
+        "url": "https://www.lds.org/scriptures/nt/mark/2.1-12"
+    }],
+    "pictures": [{
+        "title": "Man Stricken with Palsy",
+        "url": "https://media.ldscdn.org/images/media-library/bible-images-the-life-of-jesus-christ/miracles/bible-video-jesus-miracles-palsy-1400921-print.jpg"
+    }],
+    "videos": [{
+        "title": "Jesus Forgives Sins and Heals a Man Stricken with Palsy",
+        "url": "https://www.youtube.com/watch?v=VW4-wxIB1pA"
+    }]
+}, {
+    "day": 15,
+    "title": "Woman at the Well",
+    "scriptures": [{
+        "reference": "John 4:5-30",
+        "url": "https://www.lds.org/scriptures/nt/john/4.5-30"
+    }],
+    "pictures": [{
+        "title": "Living Water (Jesus and the Samaritan Woman)",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/living-water-jesus-christ-610290-print.jpg"
+    }],
+    "videos": [{
+        "title": "Jesus Teaches a Samaritan Woman",
+        "url": "https://www.youtube.com/watch?v=zF7ma1yoLNk"
+    }]
+}, {
+    "day": 16,
+    "title": "Widow's Mite",
+    "scriptures": [{
+        "reference": "Mark 12:41-44",
+        "url": "https://www.lds.org/scriptures/nt/mark/12.41-44"
+    }],
+    "pictures": [{
+        "title": "Love God with All Your Might",
+        "url": "https://media.ldscdn.org/images/media-library/mormonads/tithes-and-offerings/mormonad-love-god-1118350-print.jpg"
+    }],
+    "videos": [{
+        "title": "Jesus Teaches about the Widow's Mites",
+        "url": "https://www.youtube.com/watch?v=e1G-aZIempw"
+    }]
+}, {
+    "day": 17,
+    "title": "Mary and Martha",
+    "scriptures": [{
+        "reference": "Luke 10:38-42",
+        "url": ""
+    }],
+    "pictures": [{
+        "title": "Christ in the Home of Mary and Martha",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-mary-martha-396319-print.jpg"
+    }],
+    "videos": [{
+        "title": "Moments That Matter Most",
+        "url": "https://www.youtube.com/watch?v=l70e1TfN34w"
+    }]
+}, {
+    "day": 18,
+    "title": "Triumphal Entry and Cleansing the Temple",
+    "scriptures": [{
+        "reference": "Matthew 21:1-13",
+        "url": "https://www.lds.org/scriptures/nt/matt/21.1-13"
+    }],
+    "pictures": [{
+        "title": "Christ’s Triumphal Entry into Jerusalem",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/triumphant-entry-39581-print.jpg"
+    }],
+    "videos": [{
+        "title": "The Lord's Triumphal Entry into Jerusalem",
+        "url": "https://www.youtube.com/watch?v=gdUw_E-tGjE"
+    }, {
+        "title": "Jesus Cleanses the Temple",
+        "url": "https://www.youtube.com/watch?v=kyvTMggabJc"
+    }]
+}, {
+    "day": 19,
+    "title": "Last Supper",
+    "scriptures": [{
+        "reference": "Luke 22:14-20",
+        "url": "https://www.lds.org/scriptures/nt/luke/22.14-20"
+    }, {
+        "reference": "John 13:4-15",
+        "url": "https://www.lds.org/scriptures/nt/john/13.4-15"
+    }],
+    "pictures": [{
+        "title": "Jesus Washing the Feet of the Apostles",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-washing-apostles-feet-39588-print.jpg"
+    }, {
+        "title": "The Last Supper",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-last-supper-carl-bloch-634699-print.jpg"
+    }],
+    "videos": [{
+        "title": "The Last Supper",
+        "url": "https://www.youtube.com/watch?v=997ni1xcmKw"
+    }]
+}, {
+    "day": 20,
+    "title": "Gethsemane",
+    "scriptures": [{
+        "reference": "Matthew 26:36-45",
+        "url": "https://www.lds.org/scriptures/nt/matt/26.36-45"
+    }, {
+        "reference": "D&C 19:16-19",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/19.16-19"
+    }],
+    "pictures": [{
+        "title": "Jesus Praying in Gethsemane",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/jesus-praying-in-gethsemane-39591-print.jpg"
+    }],
+    "videos": [{
+        "title": "The Savior Suffers in Gethsemane",
+        "url": "https://www.youtube.com/watch?v=goR5FO1vge8"
+    }, {
+        "title": "None Were with Him - An Apostle's Easter Thoughts on Christ",
+        "url": "https://www.youtube.com/watch?v=EpFhS0dAduc"
+    }]
+}, {
+    "day": 21,
+    "title": "Betrayal and Denial",
+    "scriptures": [{
+        "reference": "Matthew 26:47-75",
+        "url": "https://www.lds.org/scriptures/nt/matt/26.47-75"
+    }],
+    "pictures": [{
+        "title": "Peter’s Denial",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/peter-denies-christ-bloch-carl-634621-print.jpg"
+    }],
+    "videos": [{
+        "title": "Jesus Is Tried by Caiaphas; Peter Denies Knowing Him",
+        "url": "https://www.youtube.com/watch?v=zMaHYMs6NB4"
+    }]
+}, {
+    "day": 22,
+    "title": "Crucifixion and Burial",
+    "scriptures": [{
+        "reference": "Luke 23:33-46",
+        "url": "https://www.lds.org/scriptures/nt/luke/23.33-46"
+    }, {
+        "reference": "Luke 23:50-56",
+        "url": "https://www.lds.org/scriptures/nt/luke/23.50-56"
+    }],
+    "pictures": [{
+        "title": "The Crucifixion",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/crucifixion-christ-anderson-39598-print.jpg"
+    }],
+    "videos": [{
+        "title": "Jesus Is Scourged and Crucified",
+        "url": "https://www.youtube.com/watch?v=nlALmOx8Sk0"
+    }, {
+        "title": "Jesus Is Laid in a Tomb",
+        "url": "https://www.youtube.com/watch?v=kPfC9kSPP_Q"
+    }]
+}, {
+    "day": 23,
+    "title": "Resurrection",
+    "scriptures": [{
+        "reference": "John 20:1-20",
+        "url": "https://www.lds.org/scriptures/nt/john/20.1-20"
+    }],
+    "pictures": [{
+        "title": "Mary and the Resurrected Lord",
+        "url": "https://media.ldscdn.org/images/media-library/easter/mary-and-the-resurrected-christ-39605-print.jpg"
+    }],
+    "videos": [{
+        "title": "Jesus Is Resurrected",
+        "url": "https://www.youtube.com/watch?v=MlKetn7ZiNU"
+    }, {
+        "title": "His Sacred Name - An Easter Declaration",
+        "url": "https://www.youtube.com/watch?v=oXrOG02NMB0"
+    }]
+}, {
+    "day": 24,
+    "title": "Road to Emmaus",
+    "scriptures": [{
+        "reference": "Luke 24:13-32",
+        "url": "https://www.lds.org/scriptures/nt/luke/24.13-32"
+    }],
+    "pictures": [{
+        "title": "Jesus and the Disciples Going to Emmaus",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/apostles-lord-jesus-art-lds-453603-print.jpg"
+    }],
+    "videos": [{
+        "title": "Jesus Christ Appears on the Road to Emmaus",
+        "url": "https://www.youtube.com/watch?v=8YlzWPPiH4A"
+    }]
+}, {
+    "day": 25,
+    "title": "Ascension into Heaven",
+    "scriptures": [{
+        "reference": "Acts 1:9-11",
+        "url": "https://www.lds.org/scriptures/nt/acts/1.9-11"
+    }],
+    "pictures": [{
+        "title": "The Ascension of Jesus",
+        "url": "https://media.ldscdn.org/images/media-library/gospel-art/new-testament/the-ascension-of-jesus-39614-print.jpg"
+    }],
+    "videos": [{
+        "title": "For God So Loved the World",
+        "url": "https://www.youtube.com/watch?v=05nA0cNEEqk"
+    }]
+}]

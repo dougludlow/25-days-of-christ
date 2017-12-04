@@ -1,0 +1,69 @@
+.day-of-christ {
+    padding: 15px 0;
+    border-top: 1px dashed #aaa;
+
+    &:nth-child(6n) {
+        border-bottom: 1px dashed #aaa;
+        page-break-after: always;
+    }
+
+    &:last-child {
+        border-bottom: 1px dashed #aaa;
+    }
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.qr-code {
+    margin: 0 5px;
+    
+    &:first-child {
+        margin-left: 0;
+    }
+
+    &:last-child {
+        margin-right: 0;
+    }
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 10px;
+}
+
+.day {
+    display: block;
+    color: #999;
+    font-size: .8em;
+    margin-bottom: 10px;
+}
+
+.title {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 10px;    
+}
+
+.scriptures {
+    a {
+        white-space: nowrap;
+    }
+}
+
+.pictures {
+    white-space: nowrap;
+    text-align: left;
+}
+
+.videos {
+    white-space: nowrap;
+    text-align: right;
+}
