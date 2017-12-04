@@ -3,6 +3,8 @@
 A printable advent chain with a daily scripture/devotional that follows the life of Christ.
 Generates QR codes for links to pictures and videos.
 
+![Example of print out](./src/assets/example.png)
+
 Credit to [New Tradition Crafts](https://newtraditioncrafts.com/pages/the-twenty-five-days).
 
 ## Building
