@@ -3,7 +3,7 @@
     "title": "Birth of Christ",
     "scriptures": [{
         "reference": "Luke 2:1-7",
-        "url": "https://www.lds.org/scriptures/nt/luke/2.1-7"
+        "url": "https://www.lds.org/scriptures/nt/luke/2.1-7#p1"
     }],
     "pictures": [{
         "title": "Mary and Joseph",
@@ -18,7 +18,7 @@
     "title": "Announcement to the Shepherds",
     "scriptures": [{
         "reference": "Luke 2:8-18",
-        "url": "https://www.lds.org/scriptures/nt/luke/2.8-18"
+        "url": "https://www.lds.org/scriptures/nt/luke/2.8-18#p8"
     }],
     "pictures": [{
         "title": "The Announcement of Christ’s Birth to the Shepherds",
@@ -36,7 +36,7 @@
     "title": "The Three Wise Men",
     "scriptures": [{
         "reference": "Matthew 2:1-12",
-        "url": "https://www.lds.org/scriptures/nt/matt/2.1-12"
+        "url": "https://www.lds.org/scriptures/nt/matt/2.1-12#p1"
     }],
     "pictures": [{
         "title": "The Magi",
@@ -54,7 +54,7 @@
     "title": "Boy Jesus in the Temple",
     "scriptures": [{
         "reference": "Luke 2:40-52",
-        "url": "https://www.lds.org/scriptures/nt/luke/2.40-52"
+        "url": "https://www.lds.org/scriptures/nt/luke/2.40-52#p40"
     }],
     "pictures": [{
         "title": "Jesus Teaching the Elders in the Temple",
@@ -69,7 +69,7 @@
     "title": "Baptism",
     "scriptures": [{
         "reference": "Matthew 3:13-17",
-        "url": "https://www.lds.org/scriptures/nt/matt/3.13-17"
+        "url": "https://www.lds.org/scriptures/nt/matt/3.13-17#p13"
     }],
     "pictures": [{
         "title": "John the Baptist Baptizing Jesus",
@@ -84,10 +84,10 @@
     "title": "Fishers of Men",
     "scriptures": [{
         "reference": "Luke 5:1-11",
-        "url": "https://www.lds.org/scriptures/nt/luke/5.1-11"
+        "url": "https://www.lds.org/scriptures/nt/luke/5.1-11#p1"
     }, {
         "reference": "Luke 6:12-16",
-        "url": "https://www.lds.org/scriptures/nt/luke/6.12-16"
+        "url": "https://www.lds.org/scriptures/nt/luke/6.12-16#p12"
     }],
     "pictures": [{
         "title": "Calling of the Fishermen",
@@ -108,7 +108,7 @@
     "title": "Sermon on the Mount",
     "scriptures": [{
         "reference": "Matthew 5:1-16",
-        "url": "https://www.lds.org/scriptures/nt/matt/5.1-16"
+        "url": "https://www.lds.org/scriptures/nt/matt/5.1-16#p1"
     }],
     "pictures": [{
         "title": "Sermon on the Mount",
@@ -123,7 +123,7 @@
     "title": "Stilling the Storm",
     "scriptures": [{
         "reference": "Matthew 8:23-27",
-        "url": "https://www.lds.org/scriptures/nt/matt/8.23-27"
+        "url": "https://www.lds.org/scriptures/nt/matt/8.23-27#p23"
     }],
     "pictures": [{
         "title": "Stilling the Storm",
@@ -138,7 +138,7 @@
     "title": "Feeds the 5000",
     "scriptures": [{
         "reference": "Matthew 14:14-21",
-        "url": "https://www.lds.org/scriptures/nt/matt/14.14-21"
+        "url": "https://www.lds.org/scriptures/nt/matt/14.14-21#p14"
     }],
     "pictures": [{
         "title": "Loaves and Fishes Miracle",
@@ -153,7 +153,7 @@
     "title": "Walking on the Water",
     "scriptures": [{
         "reference": "Matthew 14:22-33",
-        "url": "https://www.lds.org/scriptures/nt/matt/14.22-23"
+        "url": "https://www.lds.org/scriptures/nt/matt/14.22-23#p22"
     }],
     "pictures": [{
         "title": "Christ Walking on the Water",
@@ -168,7 +168,7 @@
     "title": "Parable of the Good Samaritan",
     "scriptures": [{
         "reference": "Luke 10:25-37",
-        "url": ""
+        "url": "https://www.lds.org/scriptures/nt/luke/10.35-37#p35"
     }],
     "pictures": [{
         "title": "The Good Samaritan",
@@ -183,7 +183,7 @@
     "title": "Ten Lepers",
     "scriptures": [{
         "reference": "Luke 17:11-19",
-        "url": "https://www.lds.org/scriptures/nt/luke/17.11-19"
+        "url": "https://www.lds.org/scriptures/nt/luke/17.11-19#p11"
     }],
     "pictures": [{
         "title": "Ten Lepers (The Healing of the Ten Lepers)",
@@ -198,7 +198,7 @@
     "title": "Parable of the Lost Sheep",
     "scriptures": [{
         "reference": "Luke 15:3-10",
-        "url": "https://www.lds.org/scriptures/nt/luke/15.3-10"
+        "url": "https://www.lds.org/scriptures/nt/luke/15.3-10#p3"
     }],
     "pictures": [{
         "title": "The Lost Lamb",
@@ -216,7 +216,7 @@
     "title": "Take Up Thy Bed",
     "scriptures": [{
         "reference": "Mark 2:1-12",
-        "url": "https://www.lds.org/scriptures/nt/mark/2.1-12"
+        "url": "https://www.lds.org/scriptures/nt/mark/2.1-12#p1"
     }],
     "pictures": [{
         "title": "Man Stricken with Palsy",
@@ -231,7 +231,7 @@
     "title": "Woman at the Well",
     "scriptures": [{
         "reference": "John 4:5-30",
-        "url": "https://www.lds.org/scriptures/nt/john/4.5-30"
+        "url": "https://www.lds.org/scriptures/nt/john/4.5-30#p5"
     }],
     "pictures": [{
         "title": "Living Water (Jesus and the Samaritan Woman)",
@@ -246,7 +246,7 @@
     "title": "Widow's Mite",
     "scriptures": [{
         "reference": "Mark 12:41-44",
-        "url": "https://www.lds.org/scriptures/nt/mark/12.41-44"
+        "url": "https://www.lds.org/scriptures/nt/mark/12.41-44#p41"
     }],
     "pictures": [{
         "title": "Love God with All Your Might",
@@ -261,7 +261,7 @@
     "title": "Mary and Martha",
     "scriptures": [{
         "reference": "Luke 10:38-42",
-        "url": ""
+        "url": "https://www.lds.org/scriptures/nt/luke/10.38-42#p38"
     }],
     "pictures": [{
         "title": "Christ in the Home of Mary and Martha",
@@ -276,7 +276,7 @@
     "title": "Triumphal Entry and Cleansing the Temple",
     "scriptures": [{
         "reference": "Matthew 21:1-13",
-        "url": "https://www.lds.org/scriptures/nt/matt/21.1-13"
+        "url": "https://www.lds.org/scriptures/nt/matt/21.1-13#p1"
     }],
     "pictures": [{
         "title": "Christ’s Triumphal Entry into Jerusalem",
@@ -294,10 +294,10 @@
     "title": "Last Supper",
     "scriptures": [{
         "reference": "Luke 22:14-20",
-        "url": "https://www.lds.org/scriptures/nt/luke/22.14-20"
+        "url": "https://www.lds.org/scriptures/nt/luke/22.14-20#p14"
     }, {
         "reference": "John 13:4-15",
-        "url": "https://www.lds.org/scriptures/nt/john/13.4-15"
+        "url": "https://www.lds.org/scriptures/nt/john/13.4-15#p4"
     }],
     "pictures": [{
         "title": "Jesus Washing the Feet of the Apostles",
@@ -315,10 +315,10 @@
     "title": "Gethsemane",
     "scriptures": [{
         "reference": "Matthew 26:36-45",
-        "url": "https://www.lds.org/scriptures/nt/matt/26.36-45"
+        "url": "https://www.lds.org/scriptures/nt/matt/26.36-45#p36"
     }, {
         "reference": "D&C 19:16-19",
-        "url": "https://www.lds.org/scriptures/dc-testament/dc/19.16-19"
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/19.16-19#p16"
     }],
     "pictures": [{
         "title": "Jesus Praying in Gethsemane",
@@ -336,7 +336,7 @@
     "title": "Betrayal and Denial",
     "scriptures": [{
         "reference": "Matthew 26:47-75",
-        "url": "https://www.lds.org/scriptures/nt/matt/26.47-75"
+        "url": "https://www.lds.org/scriptures/nt/matt/26.47-75#p47"
     }],
     "pictures": [{
         "title": "Peter’s Denial",
@@ -351,10 +351,10 @@
     "title": "Crucifixion and Burial",
     "scriptures": [{
         "reference": "Luke 23:33-46",
-        "url": "https://www.lds.org/scriptures/nt/luke/23.33-46"
+        "url": "https://www.lds.org/scriptures/nt/luke/23.33-46#p33"
     }, {
         "reference": "Luke 23:50-56",
-        "url": "https://www.lds.org/scriptures/nt/luke/23.50-56"
+        "url": "https://www.lds.org/scriptures/nt/luke/23.50-56#p50"
     }],
     "pictures": [{
         "title": "The Crucifixion",
@@ -372,7 +372,7 @@
     "title": "Resurrection",
     "scriptures": [{
         "reference": "John 20:1-20",
-        "url": "https://www.lds.org/scriptures/nt/john/20.1-20"
+        "url": "https://www.lds.org/scriptures/nt/john/20.1-20#p1"
     }],
     "pictures": [{
         "title": "Mary and the Resurrected Lord",
@@ -390,7 +390,7 @@
     "title": "Road to Emmaus",
     "scriptures": [{
         "reference": "Luke 24:13-32",
-        "url": "https://www.lds.org/scriptures/nt/luke/24.13-32"
+        "url": "https://www.lds.org/scriptures/nt/luke/24.13-32#p13"
     }],
     "pictures": [{
         "title": "Jesus and the Disciples Going to Emmaus",
@@ -405,7 +405,7 @@
     "title": "Ascension into Heaven",
     "scriptures": [{
         "reference": "Acts 1:9-11",
-        "url": "https://www.lds.org/scriptures/nt/acts/1.9-11"
+        "url": "https://www.lds.org/scriptures/nt/acts/1.9-11#p9"
     }],
     "pictures": [{
         "title": "The Ascension of Jesus",
