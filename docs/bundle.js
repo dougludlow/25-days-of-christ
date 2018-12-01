@@ -944,7 +944,7 @@ var React = __webpack_require__(1);
 var ReactDOM = __webpack_require__(18);
 __webpack_require__(27);
 var DayOfChristList_1 = __webpack_require__(32);
-fetch('/25-days-of-christ.json')
+fetch('25-days-of-christ.json')
     .then(function (response) { return response.json(); })
     .then(function (days) { return ReactDOM.render(React.createElement(DayOfChristList_1.DayOfChristList, { days: days }), document.getElementById("daysofchrist")); });
 
