@@ -7,6 +7,8 @@ Generates QR codes for links to pictures and videos.
 
 Credit to [New Tradition Crafts](https://newtraditioncrafts.com/pages/the-twenty-five-days).
 
+https://dougludlow.github.io/25-days-of-christ/
+
 ## Building
 
 ```bash
