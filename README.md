@@ -11,7 +11,7 @@ Generates QR codes for links to pictures and videos.
 
 - View live [demo](https://dougludlow.github.io/25-days-of-christ/).
 
-- Download printable [PDF](25%20Days%20of%20Christ.pdf).
+- Download printable [PDF](./src/assets/25%20Days%20of%20Christ.pdf).
 
 ## Building
 
