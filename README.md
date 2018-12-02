@@ -5,11 +5,13 @@ Generates QR codes for links to pictures and videos.
 
 ![Example of print out](./src/assets/example.png)
 
-Credit to [New Tradition Crafts](https://newtraditioncrafts.com/pages/the-twenty-five-days).
+## Links
 
-[Demo](https://dougludlow.github.io/25-days-of-christ/).
+- Credit to [New Tradition Crafts](https://newtraditioncrafts.com/pages/the-twenty-five-days).
 
-[PDF](./25 Days of Christ.pdf)
+- View live [demo](https://dougludlow.github.io/25-days-of-christ/).
+
+- Download printable [PDF](25%20Days%20of%20Christ.pdf).
 
 ## Building
 
