@@ -1,13 +1,15 @@
 # 25 Days of Christ Advent Chain
 
-A printable advent chain with a daily scripture/devotional that follows the life of Christ.
+A printable Christmas advent chain with a daily scripture/devotional that follows the life of Christ.
 Generates QR codes for links to pictures and videos.
 
 ![Example of print out](./src/assets/example.png)
 
 Credit to [New Tradition Crafts](https://newtraditioncrafts.com/pages/the-twenty-five-days).
 
-https://dougludlow.github.io/25-days-of-christ/
+[Demo](https://dougludlow.github.io/25-days-of-christ/).
+
+[PDF](./25 Days of Christ.pdf)
 
 ## Building
 
